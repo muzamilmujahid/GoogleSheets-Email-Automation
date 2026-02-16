@@ -1,0 +1,1 @@
+Email automation tool for sending personalized club outreach emails from a contacts list using Google Sheets API and Pandas via Gmail SMTP.
