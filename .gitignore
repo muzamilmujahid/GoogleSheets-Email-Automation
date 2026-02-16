@@ -1,0 +1,8 @@
+# Environments/folders
+.env
+.venv
+__pycache__
+
+# Files
+email_template.html
+sheet_credentials.json
